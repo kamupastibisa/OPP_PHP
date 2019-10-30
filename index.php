@@ -1,5 +1,7 @@
 <?php 
 
+echo "teseting";
+
 phpinfo()
 
 ?>
